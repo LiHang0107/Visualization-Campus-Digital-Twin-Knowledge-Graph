@@ -1,4 +1,4 @@
-# graphic interface for Campus Digital Twin Knowledge Graph
+# Graphic Interface for Campus Digital Twin Knowledge Graph
 
 This web application allows users to find parking lots and their pressure near a specific building on the Texas A&M University campus. 
 
