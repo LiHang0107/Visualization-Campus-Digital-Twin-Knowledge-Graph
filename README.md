@@ -18,7 +18,7 @@ This web application allows users to find parking lots and their pressure near a
 4. The sidebar will list the nearby parking lots, and clicking on a parking lot name will zoom the map to its location.
 5. An occupancy chart shows the current occupancy rates of the nearby parking lots.
 
-[![Project Vis](Graphic interface.png)](https://youtu.be/sQKgBkpvUxw)
+[![Project Vis](Graphic%20interface.png)](https://youtu.be/sQKgBkpvUxw)
 
 ## How It Works
 
