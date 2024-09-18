@@ -19,7 +19,7 @@ This web application allows users to find parking lots and their pressure near a
 5. An occupancy chart shows the current occupancy rates of the nearby parking lots.
 
 [![Project Vis](Graphic%20interface.png)](https://youtu.be/sQKgBkpvUxw)
-
+You can also check out the demo video in youtube：(https://youtu.be/sQKgBkpvUxw)
 ## How It Works
 
 1. The project will decode the knowledge graph file and visualize it on OSM.
